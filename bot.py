@@ -34,7 +34,7 @@ PRIVATE_CHANNEL_ID = int(os.getenv("PRIVATE_CHANNEL_ID", "0"))
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 PAYMENT_INSTRUCTIONS = os.getenv(
     "PAYMENT_INSTRUCTIONS",
-    "bKash / Nagad Personal: 01XXXXXXXXX\nটাকা পাঠানোর পর Transaction ID পাঠান।",
+    "bKash / Nagad Personal: 0190491059\nটাকা পাঠানোর পর Transaction ID পাঠান।",
 )
 
 logging.basicConfig(
